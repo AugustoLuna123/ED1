@@ -1,0 +1,7 @@
+a) Complexidade de espaço: O(1), Complexidade de Tempo: Pior Caso: O(n^2) comparações e trocas. Melhor caso: O(n) comparalções e 0 trocas.
+
+b) Sim, é estável e é in situ, pois não usa um subvetor.
+
+c) Pior caso: 	O(n^2) comparações e O(n) trocas. Melhor caso: O(n^2) Comparações e O(n) trocas. Espaço O(n).
+
+d) Nao instável e in situ.

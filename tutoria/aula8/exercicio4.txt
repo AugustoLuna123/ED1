@@ -1,0 +1,4 @@
+1.Inserir no início 
+2.Inserir no final 
+3.Remover do início 
+4.Remover do final 

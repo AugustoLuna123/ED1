@@ -1,0 +1,10 @@
+Ex 1
+Uma implementação iterativa para calcular X^y
+
+Ex 2
+
+A complexidade de tempo da implementação iterativa é O (n)
+
+Ex 3
+
+A complexidade de tempo é O(V)^3

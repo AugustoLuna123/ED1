@@ -1,0 +1,47 @@
+Posições:  0 1 2 3 4 5
+Vetor F:  [  ,  ,  ,  ,  ,  ]
+F.inicio = 0, F.fim = 0
+
+1. Enfileirar(Q, 4)
+
+Posições:  0 1 2 3 4 5
+Vetor F:  [ 4,  ,  ,  ,  ,  ]
+F.inicio = 0, F.fim = 1
+
+2. Enfileirar(F, 1)
+
+Posições:  0 1 2 3 4 5
+Vetor F:  [ 4, 1,  ,  ,  ,  ]
+F.inicio = 0, F.fim = 2
+
+3. Enfileirar(Q, 3)
+
+Posições:  0 1 2 3 4 5
+Vetor F:  [ 4, 1, 3,  ,  ,  ]
+F.inicio = 0, F.fim = 3
+
+4. Desenfileirar(Q)
+
+Posições:  0 1 2 3 4 5
+Vetor F:  [  , 1, 3,  ,  ,  ]
+F.inicio = 1, F.fim = 3
+
+5. Enfileirar(Q, 8)
+
+Posições:  0 1 2 3 4 5
+Vetor F:  [  , 1, 3, 8,  ,  ]
+F.inicio = 1, F.fim = 4
+
+6. Desenfileirar(Q)
+
+Posições:  0 1 2 3 4 5
+Vetor F:  [  ,  , 3, 8,  ,  ]
+F.inicio = 2, F.fim = 4
+
+Final:
+
+Posições:  0 1 2 3 4 5
+Vetor F:  [  ,  , 3, 8,  ,  ]
+F.inicio = 2, F.fim = 4
+
+

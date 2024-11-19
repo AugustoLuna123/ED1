@@ -1,0 +1,3 @@
+Em vetores com no máximo 10 elementos.
+
+Em vetores quase ordenados.

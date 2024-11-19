@@ -1,0 +1,1 @@
+Inserir em uma lista simplesmente encadeada é O(1) porque basta ajustar os ponteiros. Remover é Omega (n) no pior caso, pois é necessário percorrer a lista para encontrar o nó anterior ao que será removido.

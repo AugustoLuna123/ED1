@@ -1,0 +1,28 @@
+1. Empilhar(P, 4):
+
+Topo = 0
+
+2. Empilhar(P, 1):
+
+Topo = 1
+
+3. Empilhar(P, 3):
+
+Topo = 2
+
+4. Desempilhar:
+
+Remove o elemento 3.
+
+Topo = 1
+
+5. Empilhar(P, 8):
+
+Topo = 2
+
+
+6. Desempilhar:
+
+Remove o elemento 8.
+
+Topo = 1

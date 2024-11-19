@@ -1,0 +1,56 @@
+Pesquisa pela posição:
+
+Array: Acesso direto.
+Encadeada: Percorre até a posição.
+
+---
+
+Pesquisa por conteúdo:
+
+Mesma coisa.
+
+---
+
+Insere no meio:
+
+Array: Desaloca os elementos após inserir.
+
+Encadeada: Ajusta os ponteiros.
+
+---
+
+Inserção no final:
+
+Mesma coisa.
+
+---
+
+Remoção no meio:
+
+Array: Desaloca os elementos após remover.
+
+Encadeada: Ajusta os ponteiros.
+
+---
+
+Remoção no final:
+
+Array: Remove direto. 
+
+Encadeada: Percorre até o último nó.
+
+---
+
+Tamanho da lista:
+
+Array: Fixo.
+
+Encadeada: Ilimitado enquanto houver memória (dinâmico).
+
+---
+
+Indicação de uso:
+
+Array: Tamanho fixo, acesso rápido por índice.
+
+Encadeada: Tamanho variável.
